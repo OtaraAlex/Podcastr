@@ -15,7 +15,7 @@ export default defineSchema({
     authorImageUrl: v.string(),
     voicePrompt: v.string(),
     imagePrompt: v.string(),
-    voiveType: v.string(),
+    voiceType: v.string(),
     audioDuration: v.number(),
     views: v.number(),
   })

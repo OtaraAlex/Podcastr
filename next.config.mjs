@@ -10,6 +10,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "clean-axolotl-158.convex.cloud",
       },
+      {
+        protocol: "https",
+        hostname: "img.clerk.com",
+      },
     ],
   },
 };

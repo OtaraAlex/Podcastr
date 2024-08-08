@@ -51,7 +51,7 @@ const PodcastDetails = ({
         {podcast?.podcastDescription}
       </p>
 
-      <div className="flex flex-col gap-8">
+      <div className="flex flex-col gap-8 pb-8">
         <div className="flex flex-col gap-4">
           <h1 className="text-18 font-bold text-white-1">Transcription</h1>
           <p className="text-16 font-medium text-white-2">
